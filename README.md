@@ -1,4 +1,3 @@
 # EDA-on-Airbnb_IBM
 As part of my internship at IBM, I conducted an Exploratory Data Analysis (EDA) on the Airbnb dataset to uncover key insights into pricing trends, property availability, customer preferences, and location-based performance. The project involved extensive data cleaning, feature engineering, and visualization using Python, Pandas, NumPy, and Matplotlib/Seaborn. I identified patterns affecting property ratings and revenue, and presented actionable insights to improve business decision-making and market understanding.
-
 Key Skills & Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Visualization, Statistical Analysis, Business Insights
